@@ -444,3 +444,17 @@ Healthcare: Creating detailed prompts for models to give reliable information wi
 Creative Writing: Using prompt engineering to inspire creativity in storytelling, poetry, and content generation by specifying themes, tones, or genres.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Example of a Vague Prompt
+“Tell me about history.”
+
+This prompt is unclear and broad, giving the AI model little direction on which aspect of history the user is interested in. The response could cover anything from ancient civilizations to modern political events, potentially leading to an answer that doesn’t meet the user's needs.
+
+Improved Prompt
+“Provide a brief overview of major events in 20th-century world history, focusing on key political and technological developments.”
+
+Why the Improved Prompt is More Effective
+Specificity: The improved prompt specifies a time period (“20th-century”) and focus areas (“key political and technological developments”), which helps the model hone in on relevant content.
+
+Clarity: By including “major events” and “brief overview,” the prompt makes it clear that the user wants a high-level summary rather than an in-depth analysis or a long historical narrative.
+
+Conciseness: The prompt remains brief but gives the model all the necessary details to understand the scope of the response.
